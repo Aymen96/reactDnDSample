@@ -1,2 +1,0 @@
-# reactDnDSample
-Created with CodeSandbox
